@@ -1,0 +1,671 @@
+
+<!DOCTYPE html>
+<!--[if IE 7 ]><html class="ie ie7 lte9 lte8 lte7" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="ie ie8 lte9 lte8" lang="en-US">	<![endif]-->
+<!--[if IE 9]><html class="ie ie9 lte9" lang="en-US"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="noIE" lang="en-US">
+<!--<![endif]-->
+<html>
+<head>
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<title>עמותות אונליין</title>
+
+	<meta name="description" content=".הנהלת חשבונות כפולה לעמותה בחינם. תוכנת הנהלת חשבונות און ליין עבור עמותות, בית כנסת, מוסדות חינוך. מאזן בוחן. שליחת קבלה חתום דיגיטלי. פינקס קבלות. ניהול גבית שכר לימוד. ניהול גבית נדרי מצוות. ניהול מתן הלוואות גמ`ח. ניהול קישרי לקוחות">
+	<meta name="keywords" content="הנהלת חשבונות. עמותה. עמותות. בית כנסת. גזבר. רואי חשבון. מאזן. מאזן בוחן. קובץ יחיד. גבאי.ניהול עמותה. און ליין">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!--favicon-->
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+	<!-- Favicons -->
+	<!-- <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/favicon.png">
+	<link rel="shortcut icon" href="images/favicon.png">
+ -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<!-- Load Bootstrap RTL theme from RawGit -->
+	<!-- <link rel="stylesheet" href="//cdn.rawgit.com/morteza/bootstrap-rtl/v3.3.4/dist/css/bootstrap-rtl.min.css"> -->
+	<link rel="icon" href="https://toassociate.com/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-rtl.min.css">
+	<!-- <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"> -->
+	<link rel="stylesheet" type="text/css" href="css/ico.css">
+	<link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+	<link rel="stylesheet" type="text/css" href="css/owl.theme.css">
+	<link rel="stylesheet" type="text/css" href="css/owl.transitions.css">
+	<!-- <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css"> -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<!-- <link rel="stylesheet" type="text/css" href="css/colors/alizarin.css" id="theme-color-file"> -->
+	<link rel="stylesheet" type="text/css" href="css/colors/color.css">
+	<link href="css/rtl.css" type="text/css" rel="stylesheet" media="all">
+	<!--theme color-->
+	
+	
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	  <script src="js/html5shiv.js"></script>
+	  <script src="js/respond.js"></script>
+	<![endif]-->
+
+	<!--[if IE 8]>
+    <script type="text/javascript" src="js/selectivizr.js"></script>
+    <![endif]-->
+    
+    <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://www.toAssociate.com",
+  "logo": "https://www.toassociate.com/images/bigLogo.png",
+  "name": "עמותות אונליין",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+972-556642655",
+	"contactType": "Customer service"
+  }
+}
+
+
+	</script>
+
+
+	<script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+	<!-- <script type="text/javascript" src="js/jquery.actual.min.js"></script> -->
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<!-- <script type="text/javascript" src="js/modernizr.js"></script>
+	<script type="text/javascript" src="js/gestures.js"></script>
+	<script type="text/javascript" src="js/jquery.carouFredSel.min.js"></script> -->
+	
+	<!-- <script type="text/javascript" src="js/jquery.color.js"></script> -->
+	<!-- <script type="text/javascript" src="js/jquery.nicescroll.min.js"></script> -->
+	<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+	<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+	<script type="text/javascript" src="js/uikit.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+	
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-NLZN868Z');</script>
+	<!-- End Google Tag Manager -->
+	
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript" >
+	   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+	   m[i].l=1*new Date();
+	   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+	   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+	   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+	
+	   ym(96853048, "init", {
+	        clickmap:true,
+	        trackLinks:true,
+	        accurateTrackBounce:true,
+	        webvisor:true
+	   });
+	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/96853048" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
+
+</head>
+
+<body>
+
+	<!--header-->
+	<div class="wrapper header navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<div class="row logo-menu-wrap">					
+					
+					<div class="col-md-9 col-sm-12 menu">
+						<a id="mobile-nav-btn" class="visible-xs" href="#"><i class="fa fa-chevron-down fa-2x"></i></a>
+						<div class="nav">
+							<ul>
+								<li><a href="#home"><i class="fa fa-home fa-fw"></i> <span>רישום</span></a></li>
+								<li><a href="#features"><i class="fa fa-users fa-fw"></i> <span>אודות</span></a></li>
+								<li><a href="#gallary"><i class="fa fa-youtube-play fa-fw"></i> <span></span>הדגמה</a></li>
+								<li><a href="#FAQ"><i class="fa fa-question-circle fa-fw"></i> <span>שאלות נפוצות</span></a></li>
+								<li><a href="#pricing"><i class="fa fa-question-circle fa-fw"></i> <span>מחירון</span></a></li>
+								<li><a href="#recommendation-menu"><i class="fa fa-question-circle fa-fw"></i> <span>ממליצים</span></a></li>
+								<li><a href="#contact-menu"><i class="fa fa-envelope fa-fw"></i> <span>יצירת קשר</span></a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-12 logo">
+					<img src="images/miniLogo.png" style="padding-bottom:14px" alt=""><a href="#">toAssociate</a>						
+					</div>
+
+			</div><!--/row logo-menu-wrap-->
+
+		</div><!--/container-->
+	</div><!--/wrapper header-->
+	
+
+	<div class="wrapper slider BeanBGAnimate" id="home">
+		<div class="container">					
+			<div class="row">
+				
+				<div class="col-xs-12 visible-xs">
+					<img class="slider-phone" src="images/bigLogo3.png" data-uk-scrollspy="{cls:'slideLeft', repeat: true}" alt="">
+				</div>
+				<div class="col-md-7 col-sm-8" data-uk-scrollspy="{cls:'slideRight', repeat: true}">
+					<h1>הנהלת חשבונות אונליין עבור עמותות</h1>
+					<h2>לעוסקים בצרכי ציבור באמונה</h2>
+					<!-- <h5>הנהלת חשבונות אונליין עבור עמותות</h5> -->
+					<p>
+					אם אתם מנהלים עמותה ורוצים לנהל את העמותה בקלות אז יש לנו פתרון מושלם עבורכם. המערכת עמותות אונליין מאפשרת לצוות בארגון שלכם לעבוד יחד בו זמנית ובכל מקום שיש מחשב עם חיבור לאינטרנט מהיר.
+					</p>
+					<div class="download-now">
+						<!-- <a class="store-button" href="#"><i class="fa fa-apple fa-fw pull-left"></i> <span>כניסה למערכת עמותות אונליין</span></a> -->
+						<a class="store-button" href="https://toassociate.com" target="_blank"><span>כניסה למערכת עמותות אונליין</span></a>
+						<a class="store-button" href="https://toassociate.com" target="_blank"><span>חודש ניסיון חינם</span></a>
+					</div>
+				</div><!--/col-sm-6-->
+
+				<div class="col-md-5 col-sm-2" >
+					<img class="hidden-xs slider-phone" src="images/bigLogo3.png" data-uk-scrollspy="{cls:'slideLeft', repeat: true}" alt="">
+					<!--<img class="visible-sm visible-xs" src="images/header-phone.png" data-uk-scrollspy="{cls:'slideLeft', repeat: true}" alt="">-->
+				</div><!--/col-sm-6-->	
+
+		</div><!--/row-->
+		<!-- <div class="row">
+		<div class="col-sm-12 single-feature">
+		<div class="download-now">
+						<a class="store-button" href="#"><i class="fa fa-apple fa-fw pull-left"></i> <span>כניסה למערכת עמותות אונליין</span></a>
+						<a class="store-button" href="https://toassociate.com" target="_blank"><span>כניסה למערכת עמותות אונליין</span></a>
+						
+
+					</div>
+		</div>
+		
+		</div> -->
+		</div>
+	</div><!-- wrapper -->
+
+	<!--features-->
+	<div class="wrapper features" id="features">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-sm-4 single-feature">
+					<i class="icon-lock"></i>
+					<h2 data-uk-scrollspy="{cls:'fadeInOne', repeat: true}">אבטחת מידע</h2>
+					<p>השרתים נמצאים בחוות שרתים מאובטחת במרכז הארץ.</p>
+					<p>מערכת עמותות אונליין נמצאת על שרתים יעודיים ולא מארחים אפליקציות נוספות.</p>
+					<p>מעל השרתים יש Firewall המנטר את כל התנועות בין הרשת והשרתים.</p>
+					<p>התעבורה מוצפנת בפרוטוקול  SSL256 ביט.</p>
+				</div><!--/single-feature-->
+
+				<div class="col-sm-4 single-feature">
+					<i class="icon-paperplane"></i>
+					<h2 data-uk-scrollspy="{cls:'fadeInOne', repeat: true}" >שליחת קבלות בדוא"ל</h2>
+					<p>מערכת עמותות אונליין מאפשרת שליחת קבלות ללקוחותיה של העמותה.</p>
+					<p>כל הקבלות חתומות דיגיטאלית על ידי השולח.</p>
+					<p>כמות הקבלות אינה מוגבלת.</p>
+					<p>אפשר לשלוח את הקבלה שנית.</p>
+					<p>הקבלה מעוצבת וניתן לצרף לוגו של העמותה.</p>
+				</div><!--/single-feature-->
+
+				<div class="col-sm-4 single-feature">
+					<i class="icon-banknote"></i>
+					<h2 data-uk-scrollspy="{cls:'fadeInOne', repeat: true}">הנהלת חשבונות כפולה</h2>
+					<p>רישום הוצאות והכנסות</p>
+					<p>סליקת אשראי</p>
+					<p>פקודות יומן</p>
+					<p>הגדרת פרקים וכרטיסי הנה"ח</p>
+					<p>הגדרת סוגי תנועה</p>
+					<p>דוחות רווח והפסד, מאזן בוחן וקובץ אחיד</p>
+				</div><!--/single-feature-->
+
+			</div><!--/row-->
+		</div><!--/container-->
+	</div><!--/features-->
+
+	<!--detailed-feature-->
+	<div id="features" class="wrapper detailed-feature">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-sm-6"><img data-uk-scrollspy="{cls:'slideRight', repeat: true}" src="images/illustration_left.png" alt=""></div>
+				<div class="col-sm-6" data-uk-scrollspy="{cls:'slideLeft', repeat: true}">
+					<h2>זמינות, <span>נגישות</span> ושירות</h2>
+					<p>אם חשוב לכם לתת שירות טוב ללקוחות ולתורמים אז אין ספק שמגיע להם לקבל את הקבלה בזמן. השירות יגביר את הקשר שלכם עם הלקוחות והתורמים. לכן עמותות אונליין מאפשרת לכם לרשום ולשלוח באותו עת את הקבלה אפילו מטלפון חכם.</p>
+					<p>פעולות שיגרתיות כגון שליחת קבלה או רישום הוצאה מתאפשר ממכשיר בעל מסך בגודל 4.7 אינץ ומעלה.</p>
+				</div>
+			</div><!--/row detailed-feature-->
+
+			<div class="row detailed-feature">
+				
+				<div class="col-sm-6" data-uk-scrollspy="{cls:'slideRight', repeat: true}">
+					<h2><span>הרשאות</span> ועבודת צוות</h2>
+					<p>פעילות העמותה בדרך כלל מתחלקת בין אנשי הצוות. חלק מבין בהנהלת חשבונות. לכן עמותות אונליין מאפשרת לתת הרשאה למשתמש לפי תפקידו. ניתן גם לצרף את רואה החשבון של העמותה בכדי להתייעץ עימו או שהוא בעצמו יבצע את הפעולות המורכבות יותר.</p>
+					<p>פעולות מורכבות הדורשות מסך גדול אינם זמינות בטלפון חכם.</p>
+				</div>
+
+				<div class="col-sm-6"><img data-uk-scrollspy="{cls:'slideLeft', repeat: true}" src="images/illustration_right.png" alt=""></div>
+				
+			</div><!--/row detailed-feature-->
+			<div class="row">
+				<div class="col-sm-6"><img data-uk-scrollspy="{cls:'slideRight', repeat: true}" src="images/loan_management.png" alt=""></div>
+				<div class="col-sm-6" data-uk-scrollspy="{cls:'slideLeft', repeat: true}">
+					<h2><span>ניהול הלוואות</span></h2>
+					<ul class="no_bullet">					
+					<li><i class="ion-social-usd"></i>מעקב על מתן והחזר הלוואות</li>
+					<li><i class="ion-social-usd"></i>רישום הלוואות, ערבים ובטחונות</li>
+					<li><i class="ion-social-usd"></i>במתן ההלוואה החוזה נשלח ללווה לפני חתימה</li>
+					<li><i class="ion-social-usd"></i>כל החזר על ההלוואה נרשם בפקודות יומן ומנוהל ביחס ליתרה של אותה הלוואה</li>
+					<li><i class="ion-social-usd"></i>הלווה מקבל קבלות עבור החזרים בדואר אלקטרוני</li>
+					</ul>
+				</div>
+			</div><!--/row -->
+			<div class="row detailed-feature">
+				
+				<div class="col-sm-6" data-uk-scrollspy="{cls:'slideRight', repeat: true}">
+					<h2><span>ניהול קשרי לקוחות</span> CRM</h2>
+					<ul class="no_bullet">
+					<li><i class="ion-android-contacts space"></i>מעקב על משימות של עובדי הצוות</li>
+					<li><i class="ion-android-contacts"></i>העלאת קובץ אקסל עם פרטים של לקוחות פוטנציאליים</li>
+					<li><i class="ion-android-contacts"></i>גיוס תורמים באופן מקצועית ונוח</li>
+					<li><i class="ion-android-contacts"></i>תיעוד הקשר עם התורמים</li>
+					</ul>
+				</div>
+
+				<div class="col-sm-6"><img data-uk-scrollspy="{cls:'slideLeft', repeat: true}" src="images/crm.jpg" alt=""></div>
+				
+			</div><!--/row crm-feature-->
+			
+			<div class="row">
+				<div class="col-sm-6"><img data-uk-scrollspy="{cls:'slideRight', repeat: true}" src="images/tution_3.png" alt=""></div>
+				<div class="col-sm-6" data-uk-scrollspy="{cls:'slideLeft', repeat: true}">
+					<h2><span>ניהול שכר לימוד</span></h2>
+					<ul class="no_bullet">					
+					<li><i class="ion-social-usd"></i>רישום שכר לימוד עבור תלמידים</li>
+					<li><i class="ion-social-usd"></i>מעקב על תשלומי שכר לימוד</li>
+					<li><i class="ion-social-usd"></i>מתן הנחה וחישוב יתרה</li>
+					<li><i class="ion-social-usd"></i>שליחת קבלה ופירוט יתרת פרעון שכר לימוד לדוא"ל (שמופיע בכרטיס הנהלת חשבונות)</li>
+					<li><i class="ion-social-usd"></i>מיון וסינון רשומות לפי שדות כגון הנחה, סך החזרים, כיתת לימוד ועוד.</li>
+					</ul>
+				</div>
+			</div>
+			
+			<div class="row detailed-feature">
+				
+				<div class="col-sm-6" data-uk-scrollspy="{cls:'slideRight', repeat: true}">
+					<h2><span>ניהול נדרים ב</span>בית הכנסת</h2>
+					<ul class="no_bullet">
+					<li><i class="ion-android-contacts space"></i>רישום דמי חבר או קניית מצוות</li>
+					<li><i class="ion-android-contacts"></i>מעקב על תשלומי התחייבות לקהילה</li>
+					<li><i class="ion-android-contacts"></i>שליחת קבלה ופירוט יתרת פרעון בדוא"ל</li>
+					<li><i class="ion-android-contacts"></i>מיון וסינון רשומות לפי שדות כגון סכום, תאריך, שם ופרוטוקול</li>
+					</ul>
+				</div>
+
+				<div class="col-sm-6"><img data-uk-scrollspy="{cls:'slideLeft', repeat: true}" src="images/nedarim_3.png" alt=""></div>
+				
+			</div>
+		</div><!--/container-->
+	</div><!--/detailed-feature-->
+
+	<!--gallary-->
+	<div class="wrapper gallary" id="gallary">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+
+					<div class="gallary-intro" data-uk-scrollspy="{cls:'slideLeft', repeat: true}">
+						<h2>הדגמת המערכת עמותות אונליין <span>סרטוני הדרכה</span></h2>
+						<p>בתוך התוכנה יש הפניות לסרטוני הדרכה רלוונטים. אין ספק שרק על ידי שימוש במערכת אפשר ללמוד אותה. להמשך התעניינות ניתן ליצור קשר</p>
+					</div><!--/gallary-intro-->
+				</div><!--/col-sm-12-->
+				
+			</div><!--/row-->
+			<div class="row">
+
+				<div class="col-sm-4">
+					<iframe src="https://www.youtube.com/embed/gL7ocVc2S8c" frameborder="0" allowfullscreen></iframe>
+				</div><!--/single-feature-->
+
+				<div class="col-sm-4">					
+					<iframe src="https://www.youtube.com/embed/Fx4LCdjbbag" frameborder="0" allowfullscreen></iframe>
+				</div><!--/single-feature-->
+
+				<div class="col-sm-4">					
+					<iframe src="https://www.youtube.com/embed/sT__ljzSJC0" frameborder="0" allowfullscreen></iframe>
+				</div><!--/single-feature-->
+
+			</div><!--/row-->
+			<div class="row">
+
+				<div class="col-sm-4">
+					<iframe src="https://www.youtube.com/embed/ptkJ6fmWjBE" frameborder="0" allowfullscreen></iframe>
+				</div><!--/single-feature-->
+
+				<div class="col-sm-4">					
+					<iframe src="https://www.youtube.com/embed/F6bq6an99DM" frameborder="0" allowfullscreen></iframe>
+				</div><!--/single-feature-->
+
+				<div class="col-sm-4">					
+					<iframe src="https://www.youtube.com/embed/TnaJ7MJvyu4" frameborder="0" allowfullscreen></iframe>
+				</div><!--/single-feature-->
+
+			</div><!--/row-->
+		</div><!--/container-->
+	</div><!--/gallary-->
+
+	<!--faq-->
+	<div class="wrapper faq-wrap" id="FAQ">
+		<div class="container">
+			<div class="row">
+				<div data-uk-scrollspy="{cls:'slideRight', repeat: true}" class="col-md-6 faq-image"><img  src="images/ipad-hand.png" alt=""></div>
+				<div class="col-md-6" data-uk-scrollspy="{cls:'slideLeft', repeat: true}">
+
+					<div class="faq-intro"><h2><span>שאלות</span> נפוצות</h2></div>
+					<div class="panel-group" id="faq">
+					<div class="panel panel-faq">
+					    <div class="panel-heading">
+					      <h4 class="panel-title">
+					        <a data-toggle="collapse" data-parent="#faq" href="#collapse_0">
+					          <i class="fa fa-plus-square fa-minus-square fa-fw"></i>איך מתקינים את התוכנה?
+					        </a>
+					      </h4>
+					    </div>
+					    <div id="collapse_0" class="panel-collapse collapse in">
+					      <div class="panel-body">
+					        התוכנה אינטרנטית. יש להשתמש בדפדפן של גוגל כרום.  
+					        <br>
+					        <a href="https://www.google.com/chrome/browser/desktop/index.html" target="_blank">קישור להורדת דפדפן גוגל כרום</a>
+					        <br>
+					        <a href="https://toAssociate.com" target="_blank">קישור לתוכנה</a>
+					      </div>
+					    </div>
+					  </div><!--/panel panel-faq-->
+					  <div class="panel panel-faq">
+					    <div class="panel-heading">
+					      <h4 class="panel-title">
+					        <a data-toggle="collapse" data-parent="#faq" href="#collapse_1">
+					          <i class="fa fa-plus-square fa-fw"></i>האם התוכנה תומכת בדוח השנתי לרשויות המיסים?
+					        </a>
+					      </h4>
+					    </div>
+					    <div id="collapse_1" class="panel-collapse collapse">
+					      <div class="panel-body">
+					        כן, בתוכנה אפשר לייצא את הנתונים לקובץ אחיד. עמותה עם מחזור שנתי מעל 2.5 מיליון ש"ח חייבת להגיש דוח שנתי בפורמט קובץ אחיד.
+					        <a href="https://taxes.gov.il/about/publicannouncements/pages/ann_200116_1.aspx" target="_blank">כדי לדעת על מי חלה חובת הדיווח לחץ כאן</a>
+					        
+					      </div>
+					    </div>
+					  </div><!--/panel panel-faq-->
+					  <div class="panel panel-faq">
+					    <div class="panel-heading">
+					      <h4 class="panel-title">
+					        <a data-toggle="collapse" data-parent="#faq" href="#collapse_2">
+					          <i class="fa fa-plus-square fa-minus-square fa-fw"></i>האם התוכנה מוכרת על ידי רשויות המס?
+					        </a>
+					      </h4>
+					    </div>
+					    <div id="collapse_2" class="panel-collapse collapse">
+					      <div class="panel-body">
+					        התוכנה מאושרת על ידי רשות המיסים.  
+					        <a href="https://toassociate.com/multimedia/%D7%AA%D7%A2%D7%95%D7%93%D7%AA%20%D7%A8%D7%99%D7%A9%D7%95%D7%9D.pdf" target="_blank">קישור למסמך אישור התוכנה</a>
+					      </div>
+					    </div>
+					  </div><!--/panel panel-faq-->
+					  <div class="panel panel-faq">
+					    <div class="panel-heading">
+					      <h4 class="panel-title">
+					        <a data-toggle="collapse" data-parent="#faq" href="#collapse_3">
+					          <i class="fa fa-plus-square fa-fw"></i>האם התוכנה תומכת בדוח השנתי לרשויות המיסים?
+					        </a>
+					      </h4>
+					    </div>
+					    <div id="collapse_3" class="panel-collapse collapse">
+					      <div class="panel-body">
+					        כן, בתוכנה אפשר לייצא את הנתונים לקובץ אחיד. עמותה עם מחזור שנתי מעל 2.5 מיליון ש"ח חייבת להגיש דוח שנתי בפורמט קובץ אחיד.
+					        <a href="https://taxes.gov.il/about/publicannouncements/pages/ann_200116_1.aspx" target="_blank">כדי לדעת על מי חלה חובת הדיווח לחץ כאן</a>
+					        
+					      </div>
+					    </div>
+					  </div><!--/panel panel-faq-->
+					  <div class="panel panel-faq">
+					    <div class="panel-heading">
+					      <h4 class="panel-title">
+					        <a data-toggle="collapse" data-parent="#faq" href="#collapse_4">
+					          <i class="fa fa-plus-square fa-fw"></i>האם עמותה חייבת הנהלת חשבונות כפולה?
+					        </a>
+					      </h4>
+					    </div>
+					    <div id="collapse_4" class="panel-collapse collapse">
+					      <div class="panel-body">
+					        זה תלוי בגודל העמותה. עמותה קטנה שהמחזור העסקי שלה קטן מ 1.5 מיליון בשנה אינה חייבת.
+					      </div>
+					    </div>
+					  </div><!--/panel panel-faq-->
+					  <div class="panel panel-faq">
+					    <div class="panel-heading">
+					      <h4 class="panel-title">
+					        <a data-toggle="collapse" data-parent="#faq" href="#collapse_5">
+					          <i class="fa fa-plus-square fa-fw"></i>האם כל תורם חייב להיות רשום בכרטיס הנה"ח מסוג לקוחות?
+					        </a>
+					      </h4>
+					    </div>
+					    <div id="collapse_5" class="panel-collapse collapse">
+					      <div class="panel-body">
+					        רצוי לרשום כל תורם כלקוח כדי לרכז את כל ההכנסות מאותו לקוח. אמנם ניתן גם לשלוח קבלות לתורמים שאינם רשומים בכרטסת לקוחות. המערכת אינה מגבילה לא את כמות הקבלות ולא את מספר התורמים שעליהם אין כרטיס. 
+					      </div>
+					    </div>
+					  </div><!--/panel panel-faq-->
+					  <div class="panel panel-faq">
+					    <div class="panel-heading">
+					      <h4 class="panel-title">
+					        <a data-toggle="collapse" data-parent="#faq" href="#collapse_6">
+					          <i class="fa fa-plus-square fa-fw"></i>אנחנו עמותה עם צוות של חמישה אנשים. איך אפשר לדעת מי עשה מה?
+					        </a>
+					      </h4>
+					    </div>
+					    <div id="collapse_6" class="panel-collapse collapse">
+					      <div class="panel-body">
+					        המערכת מזהה את המשתמש בהזדהות למערכת. פעולות כגון פקודות יומן ,רישום קבלה או הוצאה רשומות עם שם המשתמש. ולכן המערכת מראה מי ביצע איזה הפעולה. כל הקבלות שנשלחות חתומות דגיטאלית ופרטי השולח רשומות בסוף המסמך.
+					      </div>
+					    </div>
+					  </div><!--/panel panel-faq-->
+					  <div class="panel panel-faq">
+					    <div class="panel-heading">
+					      <h4 class="panel-title">
+					        <a data-toggle="collapse" data-parent="#faq" href="#collapse_7">
+					          <i class="fa fa-plus-square fa-fw"></i>לעמותה שלנו יש לוגו. האם ניתן לשלב את הלוגו על גבי הקבלה?
+					        </a>
+					      </h4>
+					    </div>
+					    <div id="collapse_7" class="panel-collapse collapse">
+					      <div class="panel-body">
+					        כן. עליך להעלות את הלוגו של העמותה למערכת. מצד ימין יש תפריטים. בתפריטים למטה נמצא הגדרות העמותה. תבחר "הגדרות עמותה" ויפתח דפית עבור הגדרות עמותה, ושם אפשר להעלות לוגו.
+					      </div>
+					    </div>
+					  </div><!--/panel panel-faq-->
+					  <div class="panel panel-faq">
+					    <div class="panel-heading">
+					      <h4 class="panel-title">
+					        <a data-toggle="collapse" data-parent="#faq" href="#collapse_8">
+					          <i class="fa fa-plus-square fa-fw"></i>אנחנו עמותה ותיקה. איך ניתן לשמור על רצף מספרים של קבלות?
+					        </a>
+					      </h4>
+					    </div>
+					    <div id="collapse_8" class="panel-collapse collapse">
+					      <div class="panel-body">
+					        נכון שצריך רצף מספרים של קבלות. אנחנו מציעים להגדיר מספר חדש עבור רצף המספרים של קבלות. המספר הזה יכול להתחיל בטווח מספרים אחר ממה שעשיתם עד כה. כגון עם מספר הקבלה האחרון הו 52360 אז אפשר להגדיר מספר חדש כגון 100000 עבור הקבלות בעמותות אונליין. ניתן להגדיר מספר קבלה התחלתי בתפריט הגדרת עמותה.
+					      </div>
+					    </div>
+					  </div><!--/panel panel-faq-->
+					</div><!--/faq-->
+
+				</div><!--/col-sm-6-->
+
+			</div><!--/row-->
+		</div><!--/container-->
+	</div><!--/faq-->
+	
+	<!-- start: pricing section -->
+    <div class="wrapper pricing-wrap" id="pricing">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h2 style="text-align:center;"><span>מחירון</span></h2>
+                        <h4 style="text-align:center;padding-top:10px;padding-bottom:10px">חודש נסיון חינם!</h4>
+                <div data-uk-scrollspy="{cls:'slideRight', repeat: true}">
+				
+				<table class="table table-bordered table-striped">
+  <thead>
+    <tr style='font-size:150%'>
+      <th scope="col">שירותים</th>
+      <th scope="col">מידע</th>
+      <th scope="col">&#8362</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>מסלול בסיסי</td>
+      <td>הנפקת קבלות במייל. עיצוב הקבלה סטנדרטי כולל לוגו של העמותה</td>
+      <td>חינם</td>
+    </tr>
+    <tr>
+      <td>מסלול מורחב</td>
+      <td>כולל מסכים: רישום הוצאה, פנקס קבלות ממוחשב, רשימת הכנסות, רשימת הוצאות, דוח רווח והפסד ומאזן בוחן</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>מסלול מלא</td>
+      <td>כולל מסכים: רישום הוצאה, פנקס קבלות ממוחשב, רשימת הכנסות, רשימת הוצאות, דוח רווח והפסד ומאזן בוחן, הורדת קובץ אחיד, פקודות יומן, התאמות בנק.</td>
+      <td>100</td>
+    </tr>
+	<tr style="background-color: rgb(55, 60, 255);	color: white;" >
+	<td>תוספות</td>
+      <td></td>
+	  <td></td>
+    </tr>
+	<tr>
+      <td>עיצוב קבלה במייל</td>
+      <td>הנפקת קבלות במייל. עיצוב הקבלה לפי דרישת העמותה</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>דף תרומות באינטרנט</td>
+      <td>דף נחיתה לגיוס תרומות באינטרנט</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>ניהול קשרי לקוחות - CRM</td>
+      <td>ניהול משימות קשרי לקוחות וחלוקת המשימות בין אנשי הצוות </td>
+      <td>10</td>
+    </tr>
+	<tr>
+      <td>ניהול מתן הלוואות והחזרים</td>
+      <td>עבור עמותות שעוסקות במתן הלוואות</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>ניהול שכר לימוד</td>
+      <td>עבור מוסדות חינוך שרוצים לנהל מעקב על שכר לימוד של  ל כל תלמיד</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>ניהול נדרים</td>
+      <td>עבור בתי כנסת שמוכרים עליות לתורה</td>
+      <td>10</td>
+    </tr>
+	<tr>
+      <td>בקרת סליקת אשראי</td>
+      <td>מסך תצוגת רשימת סליקת אשראי שבוצעו עם סינון לפי תאריכים וחיפוש</td>
+      <td>10</td>
+    </tr>	
+  </tbody>
+</table>
+<h4 style="text-align:center;padding-top:10px;padding-bottom:10px">תשלומי שירותי התוכנה בתשלום חודשי בהתייחבות לשנה</h4>
+				
+				</div>
+				        
+                </div>
+            </div>
+
+
+        </div>
+    </div> <!-- /#pricing -->
+    </div>        <!-- end: pricing section -->
+
+<div class="wrapper testimonials-wrap" id="recommendation-menu">
+		<div class="container">
+			<div class="row">
+			<div class="col-md-12">
+							<h2 style="text-align:center;padding-top:20px;padding-bottom:20px"> רואי חשבון ומנהלי חשבונות <span>הממליצים</span> לעבוד עם עמותות אונליין</h2>
+							</div>
+				<div class="col-md-12">
+								  
+					  	<div class="item col-sm-4">
+						  	<img src="images/clients/חוה נאורי הבירה.jpg" class="client-img pull-right" alt="">
+						  	<h3 class="title-page">רו"ח: חוה נאורי</h3>
+		                     <p class="list-text-p">טלפון: 054-5623929</p>
+		                     <p class="list-text-p">דוא"ל: naouricpa@gmail.com</p>
+		                     <p class="list-text-p">פנחס קהתי 8/30, ירושלים</p>
+						 </div>
+						 
+						 <div class="item col-sm-4">
+						  	<img src="images/clients/gilboa2.jpg" class="client-img pull-right" alt="">
+						  	<h3 class="title-page">רו"ח: גלבוע ויספיש</h3>
+		                     <p class="list-text-p">טלפון: 054-6289988</p>
+		                     <a href="http://bdsk.co.il/1102/%D7%A8%D7%95%D7%97-%D7%92%D7%9C%D7%91%D7%95%D7%A2-%D7%95%D7%99%D7%A1%D7%A4%D7%99%D7%A9-%D7%A9%D7%95%D7%AA%D7%A3/">אתר בית</a>
+		                     <p class="list-text-p">הר חוצבים, ירושלים</p>
+						 </div>
+					<div class="col-md-12">	 
+						<div class="item col-sm-4">
+						  	<img src="images/clients/tzacki_mena.jpg" class="client-img pull-right" alt="">
+						  	<h3 class="title-page">רו"ח: צחי מנע</h3>
+		                     <p class="list-text-p">טלפון: 077-3400400</p>
+		                     <a href="http://www.mena.co.il/">אתר בית</a>
+		                     <p class="list-text-p">שד' המקצועות 13, קומה 3. מודיעין</p>
+						 </div> 
+					</div> 
+				</div>
+			</div><!--/row-->
+			</div><!--/container-->
+	</div><!--/testimonials-wrap-->
+	
+	<!--footer-->
+	<div class="wrapper footer" id="contact-menu">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 copyright" dir="ltr">Copyright &copy; 2013-2019 toAssociate </div>
+				<div class="col-sm-6 copyright"><a style="color: white;" href="mailto:info@toassociate.com">דוא"ל :info@toassociate.com</a>  <a style="color: white;padding-right:14px;" href="tel:0556642655">הדרכה: 055-66-426-55</a> 
+					<a style="color: white;" href="https://wa.me/972556642655"><img src="images/whatsapp-logo.png" style="padding-right:14px;" alt="WhatsApp"/>WhatsApp</a>
+				</div>				
+			</div><!--/row-->
+		</div><!--/container-->
+	</div><!--/footer-->
+
+
+	<script type="text/javascript" src="js/retina-2.1.0.min.js"></script>
+	<script type="text/javascript" src="js/jQuery.scrollSpeed.js"></script>
+
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLZN868Z"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-6BQXF1GGMF"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'G-6BQXF1GGMF');
+	</script>
+
+</body>
+</html>
